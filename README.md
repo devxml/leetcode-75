@@ -17,4 +17,8 @@ This repository contains my C++ solutions to the LeetCode 75 Study Plan, created
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/devxml/https-github.com-devxml/tree/master/1071-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/devxml/https-github.com-devxml/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
