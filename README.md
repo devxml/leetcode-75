@@ -20,5 +20,10 @@ This repository contains my C++ solutions to the LeetCode 75 Study Plan, created
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/devxml/https-github.com-devxml/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devxml/https-github.com-devxml/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/devxml/https-github.com-devxml/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
