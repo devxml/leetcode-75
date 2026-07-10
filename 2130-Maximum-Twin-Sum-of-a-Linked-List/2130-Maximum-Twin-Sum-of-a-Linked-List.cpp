@@ -10,7 +10,7 @@ public:
         }
 
         int left = 0;
-        int right = nodes.size() - 1;
+        int right = nodes.size() - 1; 
 
         int maxSum = 0;
 
